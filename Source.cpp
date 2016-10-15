@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {	
 	int cn;
-	vector<long long> a(1,1); 
+	vector<int> a(1,1); 
 	for (int n =1; n <= 100; n++)
 	{
 		for (int m = 0; m <= a.size() - 1; m++)
