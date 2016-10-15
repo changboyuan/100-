@@ -1,5 +1,5 @@
-//ÓÃÏòÁ¿·½Ê½ÊµÏÖ¸ß¾«¶ÈÔËËãºÍÊä³ö
-//Ô´´úÂë½«ÔÚgithubÉÏ¿ª·Å ÏêÇé¼ûCBYstudio
+//ç”¨å‘é‡æ–¹å¼å®ç°é«˜ç²¾åº¦è¿ç®—å’Œè¾“å‡º
+//æºä»£ç å°†åœ¨githubä¸Šå¼€æ”¾ è¯¦æƒ…è§CBYstudio
 #include<iostream>
 #include<vector>
 using namespace std;
@@ -7,7 +7,7 @@ int main()
 {	
 	int cn;
 	vector<long long> a(1,1); 
-	for (int n =1; n <= 120; n++)
+	for (int n =1; n <= 100; n++)
 	{
 		for (int m = 0; m <= a.size() - 1; m++)
 		{
