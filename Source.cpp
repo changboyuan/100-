@@ -4,8 +4,7 @@
 #include<vector>
 using namespace std;
 int main()
-{	
-	int cn;
+{
 	vector<int> a(1,1); 
 	for (int n =1; n <= 100; n++)
 	{
